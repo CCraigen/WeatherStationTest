@@ -1,0 +1,14 @@
+{
+  "WeatherData": {
+    "date": "2025-04-09T07:40:00.000Z",
+    "temp": "21",
+    "groundTemp": "13",
+    "relHumidity": "0.29",
+    "humidex": "21",
+    "pressure": "101.5",
+    "windSpeed": "15",
+    "windDir": "0.3",
+    "windGust": "21",
+    "windChill": "17"
+  }
+}
